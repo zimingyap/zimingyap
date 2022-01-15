@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zimingyap
-- 👀 I’m interested in building software products
+- 👀 I’m interested in cloud & building software products
 - 🌱 I’m currently learning React, NodeJS, ExpressJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zimingyap@gmail.com
